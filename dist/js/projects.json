@@ -1,0 +1,108 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "projectname": "Product Landing Page",
+      "type": "Website",
+      "desc": "Responsive web design project.",
+      "detail": "Landing page responsive design is one of the five responsive web design projects in freecodecamp(fcc) web design certification, the project was fully fictional, I tried to demonstrate  my responsive design skills by applying CSS flexbox.",
+      "site": "https://mesfint.github.io/FCC-projects/RWD/Product-Landing-Page/index.html",
+      "slideImages": [
+        {
+          "img": "./img/projects",
+          "alt": "image 1"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 2"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 3"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "projectname": "Web Design Guideline System",
+      "type": "Website",
+      "desc": "A CSS web design guideline that guides developers to follow the type of color and typography etc in their design.",
+      "detail": "This project was designed for Codecademy/pro web development career path course. The project was for further practice to gain the necessary skill to develop more sophisticated layouts. The design was my personal choice.",
+      "site": "https://mesfint.github.io/codecademy-pro/projects/html/website-design-system-guideLine/starting/",
+      "slideImages": [
+        {
+          "img": "./img/projects",
+          "alt": "image 1"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 2"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 3"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "projectname": "Free Code Camp Survey Form",
+      "type": "Website",
+      "desc": "A survey form, that collects user information.",
+      "detail": "The Survey form is also a freecodecamp project, Which I have designed it to practice a form that collects user inputs, the design has no  backend operation, Its pure static page",
+      "site": "https://mesfint.github.io/FCC-projects/RWD/Survey-Form/",
+      "slideImages": [
+        {
+          "img": "./img/projects",
+          "alt": "image 1"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 2"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 3"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 4"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "projectname": "Css Technical Documentation",
+      "type": "Website",
+      "desc": "Documentation site that has basic CSS styles and explanation.",
+      "detail": "Technical documentation site is also a freecodecamp project its main goal was to create a mini documentation site that is free to choose any content. The site is also responsive",
+      "site": "https://mesfint.github.io/FCC-projects/RWD/TechnicalDocumentaionPage/",
+      "slideImages": [
+        {
+          "img": "./img/projects",
+          "alt": "image 1"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 2"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 3"
+        },
+        {
+          "img": "./img/projects",
+          "alt": "image 4"
+        }
+      ]
+    }
+  ]
+}

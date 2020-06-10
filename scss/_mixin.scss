@@ -1,0 +1,9 @@
+@mixin underline() {
+  content: '';
+  width: 50%;
+  height: 0.2rem;
+  background-color: #fff;
+  margin: 0 auto;
+  margin-top: 0.2em;
+  display: block;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mesfint",
+  "version": "1.0.0",
+  "description": "mesfint Portfolio Project",
+  "main": "index.js",
+  "homepage": "https://mesfint.github.io/Lut-Frontend-course/Project/mesfint",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Mesfin",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.0.0",
+    "node-sass": "^4.14.1"
+  }
+}
